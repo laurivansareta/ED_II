@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1441149737 source:/home/laurivan/Área de Trabalho/edII_trabalho01/trabalhoUm_edII/trabalhoUm.c
+	<stdio.h>
+
+1441150241 source:/home/laurivan/Área de Trabalho/ED_II/AtividadeUm/trabalhoUm.c
+	<stdio.h>
+	<stdlib.h>
+
